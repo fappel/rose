@@ -48,7 +48,6 @@ public class DirectionTest {
   private final int x;
   private final int y;
 
-
   public DirectionTest(
     Direction match, Direction before, Direction after, Point centered, int x, int y )
   {
